@@ -3,8 +3,12 @@ body
     background-color: rgb(46, 0, 153);
     text-align:center;
     font-family: sans-serif;
+    color: rgb(245, 248, 36);
 }
-h1
+.title
 {
-    font-size: 2em;
+    font-size: 3em;
+    text-align: right;
+    padding-right: 420px;
+    padding-top: 30px;
 }
